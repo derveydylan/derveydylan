@@ -1,5 +1,6 @@
 # About Me
-*DydyCraft_21*
+**DydyCraft_21** <br>
+
 :pager: Application Developer Apprentice
 
 ## :notebook: Languages
