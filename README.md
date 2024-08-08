@@ -1,11 +1,27 @@
-# About Me
-**Dydyy.** <br>
+<div align=center>
+  <h1>Welcome 👋</h1>
+  
+  <p>Software developer apprentice.</p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-d-02a940273/)
+  
+  [![](https://visitcount.itsvg.in/api?id=DydyCraft-21&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-:pager: Application Developer Apprentice
+  <h2> Skills </h2>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,angular,mysql" />
+    </a>
 
-## :notebook: Languages
-I've worked in small projects, using CodeIgniter, PHP, MySQL, Python, Java, HTML/CSS.
-
-### :bar_chart: Statistics
-GitHub user since : `2022/09/23`
-
+  <h2>Also have touched</h2>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,docker,express,java,mongodb,powershell,py,react" />
+    </a>
+  <hr />
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=DydyCraft-21&show_icons=true&theme=holi&icon_color=e9aa16"
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=DydyCraft-21&theme=holi&layout=compact"
+  </a>
+</div>
