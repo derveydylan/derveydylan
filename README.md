@@ -1,9 +1,9 @@
 <div align=center>
   <h1>Welcome 👋</h1>
   
-  <p>Software developer apprentice.</p>
+  <strong>Software developer apprentice</strong>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-d-02a940273/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derveydylan/)
   
   [![](https://visitcount.itsvg.in/api?id=DydyCraft-21&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
@@ -21,6 +21,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=DydyCraft-21&show_icons=true&theme=holi&icon_color=e9aa16"
   </a>
+  <br />
+  <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=DydyCraft-21&theme=holi&layout=compact"
   </a>
