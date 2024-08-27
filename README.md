@@ -19,11 +19,11 @@
   <hr />
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=DydyCraft-21&show_icons=true&theme=holi&icon_color=e9aa16"
+    <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=derveydylan&show_icons=true&theme=holi&icon_color=e9aa16"
   </a>
   <br />
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=DydyCraft-21&theme=holi&layout=compact"
+    <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=derveydylan&theme=holi&layout=compact"
   </a>
 </div>
