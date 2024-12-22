@@ -9,12 +9,12 @@
 
   <h2> Skills </h2>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,php,angular,mysql" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,react,angular,mysql" />
     </a>
 
   <h2>Also have touched</h2>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,docker,express,java,mongodb,powershell,py,react" />
+      <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,docker,express,java,mongodb,powershell,py" />
     </a>
   <hr />
   
