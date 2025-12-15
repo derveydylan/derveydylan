@@ -1,10 +1,10 @@
 <div align=center>
-  <h1>Welcome 👋</h1>
+  <h1>Hi 👋</h1>
 
   I am a **software developer apprentice**.
 
-  I mainly work on all kinds of web projects.  \
-  I can work on all parts but **I prefer working on the frontend**.
+  During my apprenticeship, I have mainly worked on websites, on the frontend side. <br />
+  Nonetheless, I would be pleased to work with other technologies or in other domains.
 
   **[Learm more about me!](https://derveydylan.github.io/)**
   
